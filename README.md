@@ -1,4 +1,4 @@
-[center]![Inflame Trade Logo](/images/IT-532.png)[/center]
+![Inflame Trade Logo](/images/IT-532.png)
 
 # IFTT-ERC20-smart-contract
 Ehtereum Blockchain ERC-20 smart contract with all features.
