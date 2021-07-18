@@ -14,7 +14,7 @@ Contract compiled with Open Zeppelin libraries.
 **Token ticker/symbol**: IFTT</br>
 **Official token website**: https://ift-token.inflame-trade.com</br>
 **Official project website**: https://inflame-trade.com</br>
-**Contact E-Mail**: ift-token@inflame-trade.com
+**Contact E-Mail**: ift-token@inflame-trade.com</br>
 **Total emission**: 10 millions IFTT</br>
 **Distriburion scheme**:</br>
 * pre-seed phase 1 million</br>
