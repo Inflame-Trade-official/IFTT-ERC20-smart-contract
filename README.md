@@ -10,12 +10,12 @@ Contract compiled with Open Zeppelin libraries.
 * Permit feature
 
 ### Token detailed information:
-**Token name**: Inflame Trade Token
-**Token ticker/symbol**: IFTT
-**Official token website**: https://ift-token.inflame-trade.com
-**Official project website**: https://inflame-trade.com
-**Total emission**: 10 millions IFTT
-**Distriburion scheme**:
-* pre-seed phase 1 million
-* IEO phase 5 millions
-* SCO phase 3 millions
+**Token name**: Inflame Trade Token</br>
+**Token ticker/symbol**: IFTT</br>
+**Official token website**: https://ift-token.inflame-trade.com</br>
+**Official project website**: https://inflame-trade.com</br>
+**Total emission**: 10 millions IFTT</br>
+**Distriburion scheme**:</br>
+* pre-seed phase 1 million</br>
+* IEO phase 5 millions</br>
+* SCO phase 3 millions</br>
